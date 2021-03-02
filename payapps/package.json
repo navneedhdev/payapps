@@ -1,0 +1,28 @@
+{
+  "name": "jest-playwright-example-basic",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/playwright-community/playwright-jest-examples.git"
+  },
+  "author": "Max Schmitt <max@schmitt.mx>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3",
+    "jest-playwright-preset": "^1.4.7",
+    "playwright": "^1.9.1"
+  },
+  "dependencies": {},
+  "description": "## Showcases",
+  "bugs": {
+    "url": "https://github.com/playwright-community/playwright-jest-examples/issues"
+  },
+  "homepage": "https://github.com/playwright-community/playwright-jest-examples#readme",
+  "main": "jest-playwright.config.js",
+  "directories": {
+    "test": "tests"
+  }
+}
